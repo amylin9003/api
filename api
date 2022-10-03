@@ -1,0 +1,46 @@
+[
+  {
+    "MMSI": "416072000", 
+    "coords": [
+      120.16957, 
+      23.77478
+    ], 
+    "info": {
+      "DTE": "0", 
+      "Destination": "MAILIAO-TAIWAN", 
+      "ETA": "2022-10-02 01:00:00.000", 
+      "ShipName": "FPMC S SAPPHIRE", 
+      "call": "BHJI", 
+      "course": 8.7, 
+      "source": "MOTC", 
+      "speed": 0.0, 
+      "status": 5, 
+      "status_zh": "\u7e6b\u6cca", 
+      "type": 82, 
+      "type_zh": "\u6cb9\u8f2a"
+    }, 
+    "time": "2022-10-03T11:39:48"
+  }, 
+  {
+    "MMSI": "412446987", 
+    "coords": [
+      117.93090166666667, 
+      23.553443333333334
+    ], 
+    "info": {
+      "DTE": "0", 
+      "Destination": null, 
+      "ETA": "1900-01-01 00:00:00.000", 
+      "ShipName": null, 
+      "call": "", 
+      "course": 0.0, 
+      "source": "MOTC", 
+      "speed": 1.4, 
+      "status": 15, 
+      "status_zh": "\u672a\u5b9a\u7fa9", 
+      "type": 2, 
+      "type_zh": "\u5176\u4ed6\u985e\u578b\u8239\u8236"
+    }, 
+    "time": "2022-10-03T11:39:10"
+  }
+]
